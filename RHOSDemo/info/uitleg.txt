@@ -1,0 +1,2 @@
+# Test file waarin wordt bijgehouden hou om te gaan met GIT
+# Deze file is gemaakt lokaal. En zal eerst onder GIT worden gebracht mat add, Dan Push en dan commit denk ik
